@@ -1,0 +1,5 @@
+pip install notebook
+pip install jupyterlab
+python -m notebook
+python -m jupyterlab
+https://github.com/learningtechnical091/ML_using_python
