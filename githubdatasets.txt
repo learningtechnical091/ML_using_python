@@ -3,3 +3,15 @@ pip install jupyterlab
 python -m notebook
 python -m jupyterlab
 https://github.com/learningtechnical091/ML_using_python
+
+pip install pandas
+pip install numpy
+
+https://machinelearningmastery.com/
+
+for datasets
+https://www.kaggle.com/code/alokevil/non-linear-regression/data
+https://archive.ics.uci.edu/
+
+https://towardsdatascience.com/
+
